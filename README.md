@@ -22,5 +22,5 @@ Artificial Intelligence student at New Giza University passionate about Machine 
 - Speech & Accent Recognition
 
 ## Contact
-- LinkedIn: your linkedin link
+- LinkedIn: [your linkedin link](https://www.linkedin.com/in/mohamed-ayed-8235382aa?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 - Email: mohamedsamy3961@gmail.com
