@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Mohamed Samy Ayed 👋
 
-<!--
-**mohamedayed11/mohamedayed11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Artificial Intelligence student at New Giza University passionate about Machine Learning, Deep Learning, and real-world AI applications.
 
-Here are some ideas to get you started:
+## Technical Skills
+- Python, C++
+- Machine Learning & Deep Learning
+- TensorFlow, PyTorch, Scikit-learn
+- Pandas, NumPy, Matplotlib
+- SQL, Jupyter Notebook, Google Colab
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- Transportation Cost Prediction Model
+- Used Car Price Prediction
+- Grocery Recommendation System
+- Weather Chatbot
+- Driver Drowsiness Detection
+
+## Currently Learning
+- Computer Vision
+- CNN Architectures
+- Speech & Accent Recognition
+
+## Contact
+- LinkedIn: your linkedin link
+- Email: mohamedsamy3961@gmail.com
